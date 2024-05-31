@@ -1,0 +1,12 @@
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\EmployeeLib\bin\Debug\net6.0\EmployeeLib.deps.json
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\EmployeeLib\bin\Debug\net6.0\EmployeeLib.dll
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\EmployeeLib\bin\Debug\net6.0\EmployeeLib.pdb
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\EmployeeLib\obj\Debug\net6.0\EmployeeLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\EmployeeLib\obj\Debug\net6.0\EmployeeLib.AssemblyInfoInputs.cache
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\EmployeeLib\obj\Debug\net6.0\EmployeeLib.AssemblyInfo.cs
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\EmployeeLib\obj\Debug\net6.0\EmployeeLib.csproj.CoreCompileInputs.cache
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\EmployeeLib\obj\Debug\net6.0\EmployeeLib.sourcelink.json
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\EmployeeLib\obj\Debug\net6.0\EmployeeLib.dll
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\EmployeeLib\obj\Debug\net6.0\refint\EmployeeLib.dll
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\EmployeeLib\obj\Debug\net6.0\EmployeeLib.pdb
+E:\SunBeam-Assigment\DotNet\DotNet-Assignments\EmployeeLib\obj\Debug\net6.0\ref\EmployeeLib.dll

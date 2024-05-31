@@ -1,0 +1,14 @@
+D:\Ms.net\ConsoleApp1\Question 4\bin\Debug\net8.0\Question 4.exe
+D:\Ms.net\ConsoleApp1\Question 4\bin\Debug\net8.0\Question 4.deps.json
+D:\Ms.net\ConsoleApp1\Question 4\bin\Debug\net8.0\Question 4.runtimeconfig.json
+D:\Ms.net\ConsoleApp1\Question 4\bin\Debug\net8.0\Question 4.dll
+D:\Ms.net\ConsoleApp1\Question 4\bin\Debug\net8.0\Question 4.pdb
+D:\Ms.net\ConsoleApp1\Question 4\obj\Debug\net8.0\Question 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ms.net\ConsoleApp1\Question 4\obj\Debug\net8.0\Question 4.AssemblyInfoInputs.cache
+D:\Ms.net\ConsoleApp1\Question 4\obj\Debug\net8.0\Question 4.AssemblyInfo.cs
+D:\Ms.net\ConsoleApp1\Question 4\obj\Debug\net8.0\Question 4.csproj.CoreCompileInputs.cache
+D:\Ms.net\ConsoleApp1\Question 4\obj\Debug\net8.0\Question 4.dll
+D:\Ms.net\ConsoleApp1\Question 4\obj\Debug\net8.0\refint\Question 4.dll
+D:\Ms.net\ConsoleApp1\Question 4\obj\Debug\net8.0\Question 4.pdb
+D:\Ms.net\ConsoleApp1\Question 4\obj\Debug\net8.0\Question 4.genruntimeconfig.cache
+D:\Ms.net\ConsoleApp1\Question 4\obj\Debug\net8.0\ref\Question 4.dll
